@@ -1,6 +1,6 @@
 node {
    stage 'Stage 1'
-   echo 'Hello World 1'
+   echo 'Got Jenkinsfile'
    stage 'Stage 2'
-   echo 'Hello World 2'
+   echo 'Wrapped up the jenkinsfile'
 }
